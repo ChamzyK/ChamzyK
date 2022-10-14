@@ -9,7 +9,21 @@
 </div>
 
 ## 👨‍💻 About me
-Hello, I'm Chamzy Kyrgys.
+Hello, I'm a beginner (junior?) programer. I write applications on the ```WPF``` platform (with ```MVVM```), but I also have little experience writing web applications using ```ASP.NET Core MVC```. I like develop a application with a 3-layer architecture.
+
+I can work with relational databases and DBMS (mainly ```MS SQL Server```), interact with them in code using ORM ```EntityFramework```.
+
+When developing applications, I try to cover code with unit tests (```MSTest```, ```xUnit```). There are an understanding of the principles of ```TDD``` development.
+
+Basic knowledge of ```HTML/CSS``` and native ```JavaScript```.
+
+I have experience writing an application that interacts with ```Excel``` (```Open XML``` format) using the ```EPPlus``` library.
+
+I use VCS ```Git``` and for store ```GitHub```.
+
+In theory, I know the principles of IT project management (classic [```Waterfall```] and agile [```Scrum```, ```Kanban```]).
+
+____I like to learn something new.____
 
 ## 🛠️ Technology stack
 - C# 10 (.NET 6)
@@ -34,10 +48,12 @@ I graduated from the __SIBERIAN TRANSPORT UNIVERSITY__ ([STU](http://www.stu.ru
   - MVC
   - Repository
   - Unit of Work
+  - Service Locator
 - Clean code principles:
   - YAGNI
   - DRY
   - KISS
+- REST API
   
 ## 🔥 My stats
 <div align="center">
