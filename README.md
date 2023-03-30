@@ -32,7 +32,7 @@ ____I like to learn something new.____
   - ASP.NET 6 Core MVC ([Project example](https://github.com/ChamzyK/ProjectControlApp/tree/dev/ProjectControl.WEB))
   - LINQ
   - MSTest ([Code example 1](https://github.com/ChamzyK/Checkers/tree/master/CheckersLib.Tests), [Code example 2](https://github.com/ChamzyK/AdminHelper/tree/master/AdminHelperTests))
-- MS SQL Server
+- SQL (SQLite, T-SQL)
 - HTML5/CSS3
 - JavaScript
 
