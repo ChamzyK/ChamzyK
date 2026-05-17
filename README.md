@@ -9,7 +9,7 @@
 </div>
 
 ## 👨‍💻 About me
-Hello, I'm a beginner (junior?) programer. I write applications on the ```WPF``` platform (with ```MVVM```), but I also have little experience writing web applications using ```ASP.NET Core MVC```. I like develop a application with a 3-layer architecture.
+Hello, I'm a C#/.NET programer. I write applications on the ```WPF``` platform (with ```MVVM```), but I also have little experience writing web applications using ```ASP.NET Core MVC```. I like develop a application with a 3-layer architecture.
 
 I can work with relational databases and DBMS (mainly ```MS SQL Server```), interact with them in code using ORM ```EntityFramework```.
 
