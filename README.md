@@ -8,6 +8,8 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="prgramer" widt="200"/>
 </div>
 
+**DEPRECATED**
+
 ## 👨‍💻 About me
 Hello, I'm a C#/.NET programer. I write applications on the ```WPF``` platform (with ```MVVM```), but I also have little experience writing web applications using ```ASP.NET Core MVC```. I like develop a application with a 3-layer architecture.
 
